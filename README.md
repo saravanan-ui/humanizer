@@ -123,6 +123,7 @@ This means:
 
 | Version | Changes |
 |---|---|
+| 3.4.1  | B.Tech report quality checklist, preliminary pages section, formatting rules, acknowledgements protocol, clarity fixes |
 | v3.4.0 | Synopsis upload session start, fully generic (no hardcoded project names) |
 | v3.3.0 | Three-question session start protocol |
 | v3.2.0 | Reviewer persona, "did you actually build this" checklist, red flags quick reference |
