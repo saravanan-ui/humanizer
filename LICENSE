@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 saravanan-ui
+Copyright (c) 2025 [saravanan s]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Additional attribution:
+
+Patterns in humanizer-v3.4.0.md are adapted from
+Wikipedia:Signs of AI writing (https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing),
+maintained by WikiProject AI Cleanup, licensed under CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/).
+
+The original instructions, B.Tech report-specific patterns, session start
+protocol, section tone calibration, and "did you actually build this"
+checklist are original work by the copyright holder above.
