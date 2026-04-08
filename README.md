@@ -1,4 +1,4 @@
-# Humanizer v3.4.0
+# Humanizer v3.4.1
 
 Remove AI writing patterns from B.Tech project reports — and any other writing.
 
@@ -47,7 +47,7 @@ The Humanizer fixes that. It strips 24 documented AI writing patterns and replac
 
 | File | What it is | What to do with it |
 |---|---|---|
-| `humanizer-v3.4.0.md` | Full humanizer instructions | Upload to your Claude project |
+| `humanizer-v3.4.1.md` | Full humanizer instructions | Upload to your Claude project |
 | `student-setup-guide.html` | Step-by-step setup guide with UI mockups | Open in browser |
 | `README.md` | This file | Read it |
 | `LICENSE` | MIT License | Nothing, just legal |
