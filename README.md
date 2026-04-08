@@ -1,4 +1,4 @@
-# Humanizer v3.4.0
+# Humanizer v3.4.1
 
 Remove AI writing patterns from B.Tech project reports — and any other writing.
 
@@ -47,7 +47,7 @@ The Humanizer fixes that. It strips 24 documented AI writing patterns and replac
 
 | File | What it is | What to do with it |
 |---|---|---|
-| `humanizer-v3.4.0.md` | Full humanizer instructions | Upload to your Claude project |
+| `humanizer-v3.4.1.md` | Full humanizer instructions | Upload to your Claude project |
 | `student-setup-guide.html` | Step-by-step setup guide with UI mockups | Open in browser |
 | `README.md` | This file | Read it |
 | `LICENSE` | MIT License | Nothing, just legal |
@@ -63,7 +63,7 @@ Go to [claude.ai](https://claude.ai) and sign up. The free tier is enough for an
 In the left sidebar, click **Projects** → **New project**. Name it something like `B.Tech Report`.
 
 ### Step 3 — Upload the humanizer file
-Inside your project, find the **Files** section. Click **+** and upload `humanizer-v3.4.0.md`.
+Inside your project, find the **Files** section. Click **+** and upload `humanizer-v3.4.1.md`.
 
 ### Step 4 — Add the standing instructions
 Click **+** next to **Instructions**. Paste this exactly:
@@ -74,7 +74,7 @@ You are a humanizer editor. Apply the humanizer checklist to all writing.
 - For short replies: apply silently, just write clean
 - For B.Tech reports: every factual claim needs a real number or source
 - At session start: ask the user to upload their project synopsis before writing anything
-- Full instructions are in the uploaded file humanizer-v3.4.0.md — read it at session start
+- Full instructions are in the uploaded file humanizer-v3.4.1.md — read it at session start
 ```
 
 ### Step 5 — Test it
@@ -101,7 +101,7 @@ For each report section:
 
 Download both files and share with your batch:
 
-- `humanizer-v3.4.0.md` — students upload to their Claude project
+- `humanizer-v3.4.1.md` — students upload to their Claude project
 - `student-setup-guide.html` — students open in browser for the full visual setup guide
 
 The instructions auto-configure to each student's project from their uploaded synopsis. No editing needed between students or projects.

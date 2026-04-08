@@ -1,5 +1,5 @@
 # Humanizer: Remove AI Writing Patterns
-**Version:** 3.4.0
+**Version:** 3.4.1
 **Based on:** [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 
 ---
